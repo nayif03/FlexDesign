@@ -8,7 +8,7 @@
 }
 
 header{
-    background-image: url(/assets/images/pic04.jpg);
+    background-image: url(../images/pic04.jpg);
     background-size: cover;
     background-attachment: fixed;
     display: flex;
